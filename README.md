@@ -12,6 +12,12 @@ This project demonstrates an inbox assistant workflow that:
 - drafts a suggested reply
 - outputs structured data for follow-up
 
+## Why this matters
+
+Small businesses often lose time manually sorting emails, identifying urgent messages, and drafting replies.
+
+This demo shows how an AI-assisted workflow can reduce admin time, improve response consistency, and prepare structured data for follow-up or CRM entry.
+
 ## Example use cases
 
 - lead qualification
@@ -28,6 +34,12 @@ This project demonstrates an inbox assistant workflow that:
 4. Key details are extracted
 5. A reply draft is generated
 6. The result is saved for human review or next-step automation
+
+## Workflow Diagram
+
+![AI Inbox Assistant workflow](assets/ai_assistant_workflow.png)
+
+This workflow reads incoming emails, classifies intent and urgency, extracts key details, drafts a suggested reply, and saves the result for review or follow-up.
 
 ## Example categories
 
@@ -54,6 +66,13 @@ This demo is designed around tools such as:
 - `sample-data/` — sample inputs and outputs
 - `prompts/` — example prompt logic
 - `assets/` — diagrams and visuals
+
+## Project Files
+
+- [Workflow overview](docs/overview.md)
+- [Sample inbox emails](sample-data/example-inbox-emails.json)
+- [Sample structured output](sample-data/example-output.json)
+- [Triage prompt](prompts/triage-prompt.md)
 
 ## Notes
 
