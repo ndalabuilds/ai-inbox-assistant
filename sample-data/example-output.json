@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Sales lead",
+    "urgency": "Medium",
+    "summary": "Accounting firm requesting website redesign quote",
+    "suggested_reply": "Hi, thanks for reaching out..."
+  },
+  {
+    "category": "Billing query",
+    "urgency": "High",
+    "summary": "Customer reports possible duplicate charge on invoice 2041",
+    "suggested_reply": "Hi, thanks for flagging this..."
+  },
+  {
+    "category": "Partnership enquiry",
+    "urgency": "Low",
+    "summary": "Partnership proposal related to automation services",
+    "suggested_reply": "Hi, thanks for reaching out about the partnership..."
+  }
+]
